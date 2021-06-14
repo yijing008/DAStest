@@ -1,6 +1,6 @@
 ---
 title: "DAS-test"
-output: htmlhub_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
